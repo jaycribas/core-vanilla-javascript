@@ -50,12 +50,12 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
+- [x] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+- [x] Link to your solution here (js files in day-2 folder of this repo)
+- [x] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+- [x] Link to your solution here (js files in day-2 folder of this repo)
 - [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
- - [ ] Link to your solution here
+- [ ] Link to your solution here
 - [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
 - [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
