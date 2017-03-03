@@ -5,7 +5,7 @@ noiseArray.push('crash')
 console.log(noiseArray)
 
 // Using Bracket Notation...
-noiseArray[3] = 'meow'
+noiseArray[3] = 'meow!'
 console.log(noiseArray)
 
 // Inspect the noiseArray

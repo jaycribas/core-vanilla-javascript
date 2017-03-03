@@ -45,6 +45,7 @@ function addMatchesArray(radFarm){
     currentAnimal.matches = []
   }
 }
+
 addMatchesArray(myFarm)
 
 function giveMatches(animalPool){
@@ -53,5 +54,6 @@ function giveMatches(animalPool){
     currentAnimal.matches = currentAnimal.friends[0]  //tried to get this to randomize, didn't work, will try again later
   }
 }
+
 giveMatches(myFarm)
 console.log(myFarm)

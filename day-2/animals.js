@@ -9,7 +9,7 @@ animals.push(animal)
 
 var quackers = {
   username: 'OtherDaffy',
-  tagline: 'Yay?',
+  tagline: 'Yay?!',
   noises: ['quack', 'honk', 'sneeze', 'growl']
 }
 
@@ -17,7 +17,7 @@ animals.push(quackers)
 
 var bird = {
   username: 'Chirp',
-  tagline: 'Meh',
+  tagline: 'Meh..',
   noises: ['tweet', 'meep', 'blah']
 }
 
