@@ -1,4 +1,4 @@
-var john = {name: "John", surname: "Smith", id: 1}
+var john = { name: "John", surname: "Smith", id: 1 }
 var pete = {name: "Pete", surname: "Hunt", id: 2}
 var mary = {name: "Mary", surname: "Key", id: 3}
 

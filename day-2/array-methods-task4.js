@@ -1,4 +1,4 @@
-var john = {name: 'John', age: 25}
+var john = { name: 'John', age: 25 }
 var pete = {name: 'Pete', age: 30}
 var mary = {name: 'Mary', age: 29}
 
