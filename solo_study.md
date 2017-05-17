@@ -50,21 +50,21 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
- - [ ] Link to your solution here
-- [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
-- [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [x] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+- [x] Link to your solution here (js files in day-2 folder of this repo)
+- [x] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+- [x] Link to your solution here (js files in day-2 folder of this repo)
+- [x] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
+- [x] Link to your solution here (js files in day-2 folder of this repo)
+- [x] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
+- [x] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
-- [ ] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
-  - [ ] Link to your solution here
-- [ ] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
-  - [ ] Link to your solution here
+- [x] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
+- [x] Link to your solution here (day-2/noise-array.js and day-2/animals.js)
+- [x] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
+- [x] Link to your solution here (day-2/animal-user.js)
 - [ ] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
   - [ ] Link to your solution here
 
@@ -95,10 +95,10 @@ Let's test our understanding by working on some Koans.
 
 - In your forked repo, find the `javascript-koans` sub directory.
 - Find `KoansRunner.html` and open it in a browser
-- [ ] Edit AboutObjects.js to make all tests pass
-- [ ] Edit AboutFunctions.js to make all tests pass
-- [ ] Edit AboutArrays.js to make all tests pass
-- [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
+- [x] Edit AboutObjects.js to make all tests pass
+- [x] Edit AboutFunctions.js to make all tests pass
+- [x] Edit AboutArrays.js to make all tests pass
+- [x] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
 - [ ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
 
 Ok, on for some more drills.
